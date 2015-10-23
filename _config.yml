@@ -1,7 +1,7 @@
 name: Layouts
 favicon: null
 layout_spectrum: 0.02869
-typography_spectrum: 0
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#a5a29b'
     - '#a72a1b'
   brandStrength: 0
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
